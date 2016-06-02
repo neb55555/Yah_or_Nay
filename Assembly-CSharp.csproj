@@ -45,7 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\Menu.cs" />
+     <Compile Include="Assets\Script\Exit.cs" />
+     <Compile Include="Assets\Script\Hover.cs" />
+     <Compile Include="Assets\Script\LoadonClick.cs" />
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>

@@ -1,0 +1,1929 @@
+fileFormatVersion: 2
+guid: 0317c5a7c592d40b08f58ffd3cb49990
+timeCreated: 1464894510
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BXxeV_0
+    21300002: BXxeV_1
+    21300004: BXxeV_2
+    21300006: BXxeV_3
+    21300008: BXxeV_4
+    21300010: BXxeV_5
+    21300012: BXxeV_6
+    21300014: BXxeV_7
+    21300016: BXxeV_8
+    21300018: BXxeV_9
+    21300020: BXxeV_10
+    21300022: BXxeV_11
+    21300024: BXxeV_12
+    21300026: BXxeV_13
+    21300028: BXxeV_14
+    21300030: BXxeV_15
+    21300032: BXxeV_16
+    21300034: BXxeV_17
+    21300036: BXxeV_18
+    21300038: BXxeV_19
+    21300040: BXxeV_20
+    21300042: BXxeV_21
+    21300044: BXxeV_22
+    21300046: BXxeV_23
+    21300048: BXxeV_24
+    21300050: BXxeV_25
+    21300052: BXxeV_26
+    21300054: BXxeV_27
+    21300056: BXxeV_28
+    21300058: BXxeV_29
+    21300060: BXxeV_30
+    21300062: BXxeV_31
+    21300064: BXxeV_32
+    21300066: BXxeV_33
+    21300068: BXxeV_34
+    21300070: BXxeV_35
+    21300072: BXxeV_36
+    21300074: BXxeV_37
+    21300076: BXxeV_38
+    21300078: BXxeV_39
+    21300080: BXxeV_40
+    21300082: BXxeV_41
+    21300084: BXxeV_42
+    21300086: BXxeV_43
+    21300088: BXxeV_44
+    21300090: BXxeV_45
+    21300092: BXxeV_46
+    21300094: BXxeV_47
+    21300096: BXxeV_48
+    21300098: BXxeV_49
+    21300100: BXxeV_50
+    21300102: BXxeV_51
+    21300104: BXxeV_52
+    21300106: BXxeV_53
+    21300108: BXxeV_54
+    21300110: BXxeV_55
+    21300112: BXxeV_56
+    21300114: BXxeV_57
+    21300116: BXxeV_58
+    21300118: BXxeV_59
+    21300120: BXxeV_60
+    21300122: BXxeV_61
+    21300124: BXxeV_62
+    21300126: BXxeV_63
+    21300128: BXxeV_64
+    21300130: BXxeV_65
+    21300132: BXxeV_66
+    21300134: BXxeV_67
+    21300136: BXxeV_68
+    21300138: BXxeV_69
+    21300140: BXxeV_70
+    21300142: BXxeV_71
+    21300144: BXxeV_72
+    21300146: BXxeV_73
+    21300148: BXxeV_74
+    21300150: BXxeV_75
+    21300152: BXxeV_76
+    21300154: BXxeV_77
+    21300156: BXxeV_78
+    21300158: BXxeV_79
+    21300160: BXxeV_80
+    21300162: BXxeV_81
+    21300164: BXxeV_82
+    21300166: BXxeV_83
+    21300168: BXxeV_84
+    21300170: BXxeV_85
+    21300172: BXxeV_86
+    21300174: BXxeV_87
+    21300176: BXxeV_88
+    21300178: BXxeV_89
+    21300180: BXxeV_90
+    21300182: BXxeV_91
+    21300184: BXxeV_92
+    21300186: BXxeV_93
+    21300188: BXxeV_94
+    21300190: BXxeV_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BXxeV_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -15}
+        - {x: 15, y: 10}
+        - {x: 14, y: 11}
+        - {x: 12, y: 16}
+    - name: BXxeV_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: -14, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 14}
+        - {x: 15, y: 16}
+    - name: BXxeV_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: -10, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 16}
+    - name: BXxeV_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 1}
+        - {x: -11, y: -15}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -13}
+        - {x: 14, y: 16}
+    - name: BXxeV_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: 1}
+        - {x: -14, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -15}
+        - {x: 15, y: 10}
+        - {x: 14, y: 16}
+    - name: BXxeV_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -14, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -3}
+        - {x: -14, y: -11}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 15, y: -11}
+        - {x: 15, y: 2}
+        - {x: 14, y: 12}
+    - name: BXxeV_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -15}
+        - {x: 15, y: 10}
+        - {x: 14, y: 11}
+        - {x: 12, y: 16}
+    - name: BXxeV_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: -14, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 14}
+        - {x: 15, y: 16}
+    - name: BXxeV_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: -10, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 16}
+    - name: BXxeV_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 1}
+        - {x: -11, y: -15}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -13}
+        - {x: 14, y: 16}
+    - name: BXxeV_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: 1}
+        - {x: -14, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -15}
+        - {x: 15, y: 10}
+        - {x: 14, y: 16}
+    - name: BXxeV_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -14, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -3}
+        - {x: -14, y: -11}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 15, y: -11}
+        - {x: 15, y: 2}
+        - {x: 14, y: 12}
+    - name: BXxeV_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -5}
+        - {x: -12, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -7}
+        - {x: 14, y: 11}
+        - {x: 11, y: 16}
+    - name: BXxeV_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -12}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -15}
+        - {x: 14, y: -1}
+        - {x: 14, y: 14}
+    - name: BXxeV_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -15, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: 0}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -15}
+        - {x: 14, y: -5}
+        - {x: 14, y: 11}
+    - name: BXxeV_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -7}
+        - {x: -13, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: 4}
+        - {x: 13, y: 13}
+        - {x: 8, y: 16}
+    - name: BXxeV_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -12}
+        - {x: -10, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -9}
+        - {x: 13, y: 7}
+        - {x: 13, y: 13}
+    - name: BXxeV_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: 1}
+        - {x: -14, y: -10}
+        - {x: -10, y: -16}
+        - {x: 12, y: -16}
+        - {x: 13, y: -9}
+        - {x: 13, y: 13}
+        - {x: 8, y: 16}
+    - name: BXxeV_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -5}
+        - {x: -12, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -7}
+        - {x: 14, y: 11}
+        - {x: 11, y: 16}
+    - name: BXxeV_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -12}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -15}
+        - {x: 14, y: -1}
+        - {x: 14, y: 14}
+    - name: BXxeV_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -15, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: 0}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -15}
+        - {x: 14, y: -5}
+        - {x: 14, y: 11}
+    - name: BXxeV_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -7}
+        - {x: -13, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: 4}
+        - {x: 13, y: 13}
+        - {x: 8, y: 16}
+    - name: BXxeV_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -12}
+        - {x: -10, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -9}
+        - {x: 13, y: 7}
+        - {x: 13, y: 13}
+    - name: BXxeV_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: 1}
+        - {x: -14, y: -10}
+        - {x: -10, y: -16}
+        - {x: 12, y: -16}
+        - {x: 13, y: -9}
+        - {x: 13, y: 13}
+        - {x: 8, y: 16}
+    - name: BXxeV_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -14, y: 13}
+        - {x: -14, y: 0}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: 1}
+        - {x: 16, y: 14}
+        - {x: 15, y: 16}
+    - name: BXxeV_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -14, y: 14}
+        - {x: -14, y: -3}
+        - {x: -12, y: -15}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -3}
+        - {x: 16, y: 16}
+    - name: BXxeV_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -14, y: 13}
+        - {x: -14, y: -5}
+        - {x: -12, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -1}
+        - {x: 16, y: 16}
+    - name: BXxeV_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -15, y: 10}
+        - {x: -15, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 10}
+        - {x: 13, y: 16}
+    - name: BXxeV_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -10}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: 4}
+        - {x: 16, y: 16}
+    - name: BXxeV_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: -10}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -3}
+        - {x: 16, y: 14}
+        - {x: 13, y: 16}
+    - name: BXxeV_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -14, y: 13}
+        - {x: -14, y: 0}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: 1}
+        - {x: 16, y: 14}
+        - {x: 15, y: 16}
+    - name: BXxeV_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -14, y: 14}
+        - {x: -14, y: -3}
+        - {x: -12, y: -15}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -3}
+        - {x: 16, y: 16}
+    - name: BXxeV_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -14, y: 13}
+        - {x: -14, y: -5}
+        - {x: -12, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -1}
+        - {x: 16, y: 16}
+    - name: BXxeV_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -15, y: 10}
+        - {x: -15, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 10}
+        - {x: 13, y: 16}
+    - name: BXxeV_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -10}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: 4}
+        - {x: 16, y: 16}
+    - name: BXxeV_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: -10}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -3}
+        - {x: 16, y: 14}
+        - {x: 13, y: 16}
+    - name: BXxeV_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -13, y: 11}
+        - {x: -13, y: -14}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 13}
+        - {x: 14, y: 16}
+    - name: BXxeV_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -13, y: 13}
+        - {x: -13, y: -9}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 16}
+    - name: BXxeV_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 12}
+        - {x: -13, y: -15}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -5}
+        - {x: 16, y: 14}
+        - {x: 13, y: 16}
+    - name: BXxeV_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 16}
+        - {x: -7, y: 16}
+        - {x: -13, y: 13}
+        - {x: -13, y: -11}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -10}
+        - {x: 16, y: -4}
+        - {x: 16, y: 10}
+    - name: BXxeV_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: -15}
+        - {x: -7, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 13}
+        - {x: 14, y: 16}
+    - name: BXxeV_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -13, y: 13}
+        - {x: -13, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 12}
+        - {x: 12, y: 16}
+    - name: BXxeV_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -13, y: 11}
+        - {x: -13, y: -14}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 13}
+        - {x: 14, y: 16}
+    - name: BXxeV_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -13, y: 13}
+        - {x: -13, y: -9}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 16}
+    - name: BXxeV_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 12}
+        - {x: -13, y: -15}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -5}
+        - {x: 16, y: 14}
+        - {x: 13, y: 16}
+    - name: BXxeV_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 16}
+        - {x: -7, y: 16}
+        - {x: -13, y: 13}
+        - {x: -13, y: -11}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -10}
+        - {x: 16, y: -4}
+        - {x: 16, y: 10}
+    - name: BXxeV_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: -15}
+        - {x: -7, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 13}
+        - {x: 14, y: 16}
+    - name: BXxeV_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -13, y: 13}
+        - {x: -13, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 12}
+        - {x: 12, y: 16}
+    - name: BXxeV_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: 2}
+        - {x: -13, y: -10}
+        - {x: -10, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 15}
+        - {x: 9, y: 16}
+    - name: BXxeV_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -12}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -11}
+        - {x: 15, y: 13}
+    - name: BXxeV_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -2}
+        - {x: -12, y: -16}
+        - {x: 11, y: -16}
+        - {x: 14, y: -10}
+        - {x: 14, y: 15}
+        - {x: 9, y: 16}
+    - name: BXxeV_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -12, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -4}
+        - {x: -12, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -11}
+        - {x: 13, y: 11}
+    - name: BXxeV_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -5}
+        - {x: -14, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -11}
+        - {x: 13, y: 11}
+    - name: BXxeV_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -7}
+        - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 14, y: -4}
+        - {x: 14, y: 14}
+        - {x: 12, y: 16}
+    - name: BXxeV_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: -3}
+        - {x: -9, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 16}
+    - name: BXxeV_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -13, y: 16}
+        - {x: -15, y: 15}
+        - {x: -15, y: -5}
+        - {x: -5, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -3}
+        - {x: 16, y: 11}
+    - name: BXxeV_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -4}
+        - {x: -13, y: -16}
+        - {x: 9, y: -16}
+        - {x: 11, y: -11}
+        - {x: 11, y: 12}
+        - {x: 9, y: 16}
+    - name: BXxeV_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -3}
+        - {x: -15, y: -6}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -9}
+        - {x: 13, y: -3}
+    - name: BXxeV_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -3}
+        - {x: -15, y: -6}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -9}
+        - {x: 13, y: -3}
+    - name: BXxeV_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -3}
+        - {x: -15, y: -6}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -9}
+        - {x: 13, y: -3}
+    - name: BXxeV_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -3}
+        - {x: -14, y: -14}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -9}
+        - {x: 16, y: 16}
+    - name: BXxeV_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 11}
+        - {x: -13, y: -8}
+        - {x: -10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 11, y: 16}
+    - name: BXxeV_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -15, y: 12}
+        - {x: -15, y: 3}
+        - {x: -11, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: 12}
+        - {x: 12, y: 16}
+    - name: BXxeV_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -14}
+        - {x: -9, y: -15}
+        - {x: -5, y: -16}
+        - {x: 8, y: -16}
+        - {x: 16, y: -7}
+        - {x: 16, y: 16}
+    - name: BXxeV_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -15, y: 8}
+        - {x: -15, y: -2}
+        - {x: -5, y: -10}
+        - {x: 9, y: -10}
+        - {x: 16, y: -6}
+        - {x: 16, y: 16}
+    - name: BXxeV_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: -12}
+        - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 14, y: -14}
+        - {x: 14, y: 13}
+        - {x: 13, y: 16}
+    - name: BXxeV_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -14, y: 10}
+        - {x: -14, y: -5}
+        - {x: -11, y: -15}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 13, y: -11}
+        - {x: 13, y: 12}
+        - {x: 11, y: 16}
+    - name: BXxeV_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -15, y: 14}
+        - {x: -15, y: -14}
+        - {x: -14, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: 14}
+        - {x: 10, y: 16}
+    - name: BXxeV_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -12}
+        - {x: -12, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 15}
+    - name: BXxeV_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -3}
+        - {x: -15, y: -6}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -9}
+        - {x: 13, y: -3}
+    - name: BXxeV_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -3}
+        - {x: -15, y: -6}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -9}
+        - {x: 13, y: -3}
+    - name: BXxeV_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -3}
+        - {x: -15, y: -6}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -9}
+        - {x: 13, y: -3}
+    - name: BXxeV_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 14}
+        - {x: -15, y: 8}
+        - {x: -15, y: -8}
+        - {x: -11, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 9}
+        - {x: 7, y: 14}
+    - name: BXxeV_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 15}
+        - {x: -15, y: 9}
+        - {x: -15, y: -7}
+        - {x: -11, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 10}
+        - {x: 7, y: 15}
+    - name: BXxeV_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 14}
+        - {x: -15, y: 8}
+        - {x: -15, y: -8}
+        - {x: -11, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 9}
+        - {x: 7, y: 14}
+    - name: BXxeV_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 14}
+        - {x: 11, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -9}
+        - {x: -4, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 4}
+    - name: BXxeV_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: 2}
+        - {x: -13, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 11}
+        - {x: 13, y: 16}
+    - name: BXxeV_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -8}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -14}
+        - {x: 14, y: 12}
+        - {x: 11, y: 16}
+    - name: BXxeV_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 13}
+        - {x: -13, y: 13}
+        - {x: -13, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 9}
+    - name: BXxeV_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -16, y: 8}
+        - {x: -16, y: -9}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 13, y: -4}
+        - {x: 13, y: 9}
+        - {x: 6, y: 13}
+    - name: BXxeV_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -15, y: 14}
+        - {x: -15, y: -14}
+        - {x: -14, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: 14}
+        - {x: 10, y: 16}
+    - name: BXxeV_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -3}
+        - {x: -15, y: -6}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -9}
+        - {x: 13, y: -3}
+    - name: BXxeV_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -3}
+        - {x: -15, y: -6}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -9}
+        - {x: 13, y: -3}
+    - name: BXxeV_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -3}
+        - {x: -15, y: -6}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -9}
+        - {x: 13, y: -3}
+    - name: BXxeV_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 1}
+        - {x: -11, y: -15}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -13}
+        - {x: 14, y: 16}
+    - name: BXxeV_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: 1}
+        - {x: -14, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -15}
+        - {x: 15, y: 10}
+        - {x: 14, y: 16}
+    - name: BXxeV_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -14, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -3}
+        - {x: -14, y: -11}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 15, y: -11}
+        - {x: 15, y: 2}
+        - {x: 14, y: 12}
+    - name: BXxeV_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 5}
+        - {x: -16, y: 2}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: -5}
+        - {x: 2, y: 5}
+    - name: BXxeV_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 5}
+        - {x: -16, y: 2}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: -5}
+        - {x: 2, y: 5}
+    - name: BXxeV_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 5}
+        - {x: -16, y: 2}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: -5}
+        - {x: 2, y: 5}
+    - name: BXxeV_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: 3}
+        - {x: -10, y: -15}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -10}
+        - {x: 14, y: 12}
+        - {x: 7, y: 16}
+    - name: BXxeV_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: 3}
+        - {x: -10, y: -15}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -10}
+        - {x: 14, y: 12}
+        - {x: 7, y: 16}
+    - name: BXxeV_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: 3}
+        - {x: -10, y: -15}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -10}
+        - {x: 14, y: 12}
+        - {x: 7, y: 16}
+    - name: BXxeV_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -3}
+        - {x: -15, y: -6}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -9}
+        - {x: 13, y: -3}
+    - name: BXxeV_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -3}
+        - {x: -15, y: -6}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -9}
+        - {x: 13, y: -3}
+    - name: BXxeV_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -3}
+        - {x: -15, y: -6}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -9}
+        - {x: 13, y: -3}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
