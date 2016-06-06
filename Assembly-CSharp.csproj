@@ -48,6 +48,7 @@
      <Compile Include="Assets\Script\Exit.cs" />
      <Compile Include="Assets\Script\Hover.cs" />
      <Compile Include="Assets\Script\LoadonClick.cs" />
+     <Compile Include="Assets\Script\move.cs" />
      <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\ImportBehaviour.cs" />
      <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\SortingLayerExposed.cs" />
      <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\TileAnimator.cs" />
